@@ -88,7 +88,6 @@ Sehän näytti pelittävän niin kuin pitääkin.
 
 ## Vapaaehtoinen: greetme.
 Klo 16:16 </br>
-
 Valitsin tehtävään Ruby kielen ja aloitin tehtävän luomalla uuden tiedoston nimeltä ```greetme.rb``` sekä syötin sinne seuraavat arvot: </br>
 ```
 print ("Hello" + " " + ENV['USER'] +"\n")
@@ -97,9 +96,12 @@ print ("Hello" + " " + ENV['USER'] +"\n")
 
 - "Hello" = selkokielistä tekstiä
 - plusmerkki (+) = aiemman tiedon lisäksi lisättävä
-- " " = Välilyönti selkokielellä
+- " " = välilyönti selkokielellä
 - ENV['USER'] = tulostaa kirjautuneen käyttäjän nimen
 - "\n" = toimii rivinvaihtona
+
+
+Löysin parametrin ```ENV['USER']``` Ruby Forumilta otsikolla "Get current user logged-in to local computer".
 
 
 Seuraavaksi oli luvassa testi: </br>
@@ -122,3 +124,5 @@ bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/)
 Naman Kukreja, 25.2.2023 - How to install the C++ compiler on Ubuntu(https://www.codingninjas.com/codestudio/library/how-to-install-the-c-compiler-on-ubuntu)
 
 Ruby - Installing Ruby (https://www.ruby-lang.org/en/documentation/installation/)
+
+Ruby Forum, 7.5.2008 - Get current user logged-in to local computer (https://www.ruby-forum.com/t/get-current-user-logged-in-to-local-computer/136885)
