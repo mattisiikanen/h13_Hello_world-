@@ -48,7 +48,7 @@ Seuraavana vuorossa oli C++ kielen ympäristö ja sitä ei löytynyt entuudestaa
 ![Kuva3](https://user-images.githubusercontent.com/122887740/223730383-8869cae0-0409-4617-a704-868d0066c723.png)</br>
 
 
-Selvisikin, että koneella on jo entuudestaa C++ compiler, olisikohan kyseessä Debianiin sisään leivotusta komponentista? Joka tapauksessa seuraavaksi oli aika siirtyä luomaan uusi ohjelma C++:lla. Tällä kertaa loin Microlla tiedoston nimeltä ```helloworld.cc``` ja syöttämällä sinne määritteet: </br>
+Asennuksen yhteydessä selvisikin, että koneella on jo C++ compiler, olisikohan kyseessä Debianiin sisään leivotusta komponentista? Joka tapauksessa seuraavaksi oli aika siirtyä luomaan uusi ohjelma C++:lla. Tällä kertaa loin Microlla tiedoston nimeltä ```helloworld.cc``` ja syöttämällä sinne määritteet: </br>
 ```
 #include <iostream>
 int main()
