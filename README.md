@@ -96,7 +96,7 @@ print ("Hello" + " " + ENV['USER'] +"\n")
 
 
 - "Hello" = selkokielistä tekstiä
-- + = aiemman tiedon lisäksi lisättävä
+- plusmerkki (+) = aiemman tiedon lisäksi lisättävä
 - " " = Välilyönti selkokielellä
 - ENV['USER'] = tulostaa kirjautuneen käyttäjän nimen
 - "\n" = toimii rivinvaihtona
